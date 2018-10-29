@@ -5,7 +5,7 @@ $(document).ready(function () {
 	function renderButtons() {
 		$("#movie-buttons").empty();
 		for (i = 0; i < movies.length; i++) {
-			$("#movie-buttons").append("<button class='btn btn-success' data-movie='" + movies[i] + "'>" + movies[i] + "</button>");
+			$("#movie-buttons").append("<button class='btn btn-primary' data-movie='" + movies[i] + "'>" + movies[i] + "</button>");
 		}
 	}
 
