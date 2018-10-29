@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var movies = ["moulin rouge", "clueless", "mean girls", "drop dead fred", "breakfast at tiffanys", "cruel intentions", "donnie darko", "a night at the roxbury"];
+	var movies = ["pulp fiction", "clueless", "mean girls", "drop dead fred", "breakfast at tiffanys", "cruel intentions", "donnie darko", "a night at the roxbury"];
 
 	// Add buttons for original movies array
 	function renderButtons() {
