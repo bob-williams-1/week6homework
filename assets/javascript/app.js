@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	var movies = ["pulp fiction", "clueless", "mean girls", "drop dead fred", "breakfast at tiffanys", "cruel intentions", "donnie darko", "a night at the roxbury"];
+	var movies = ["Backend", "Algorithm", "API", "Git", "SQL", "MVP", "Plugin", "Python"];
 
 	// Add buttons for original 
 	function renderButtons() {
