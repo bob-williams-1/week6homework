@@ -1,7 +1,7 @@
 $(document).ready(function () {
 	var movies = ["pulp fiction", "clueless", "mean girls", "drop dead fred", "breakfast at tiffanys", "cruel intentions", "donnie darko", "a night at the roxbury"];
 
-	// Add buttons for original movies array
+	// Add buttons for original 
 	function renderButtons() {
 		$("#movie-buttons").empty();
 		for (i = 0; i < movies.length; i++) {
